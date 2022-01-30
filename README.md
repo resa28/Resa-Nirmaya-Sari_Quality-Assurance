@@ -7,6 +7,7 @@
     D. Give us explanation about Equivalence Partitioning & Boundary Value Analysis testing techniques
 
 **Answer Question 1**
+
 A.  1 SDLC Software Development Life Cycle - related to software development.
     2 STLC Software Testing Life Cycle - related to software testing.
     
