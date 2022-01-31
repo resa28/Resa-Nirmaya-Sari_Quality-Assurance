@@ -31,6 +31,8 @@ When fill SID field with INVALID SID
 Then system not display SID"
 
 **Answer Question 3**
+A with  Equivalence Partitioning & Boundary Value Analysis testing techniques.
+B if there found error from scenario, will give the step reproduce with image if need'ed then status scenario is FAILED
 
 **Answer Question 4**
 A have different at value **id**, Mock API has double quote, and Real api dont have.
